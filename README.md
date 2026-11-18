@@ -53,7 +53,13 @@ I'm always open to collaborating on interesting projects, software systems, or n
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40" alt="Email" />
 </a>
 
+---
 ### ⚡ Fun Fact
 
 I love watching documentaries and learning about space!
+
+
+<div align="center">
+  <img src="./spacecompilation.gif" width="100%" alt="Footer Banner" />
+</div>
 
