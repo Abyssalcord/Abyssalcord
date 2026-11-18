@@ -1,4 +1,11 @@
-### Hey there, I'm Niel Cedrick P. Mari! 
+<div align="center">
+  <img src="./patricknyancat.gif" width="200" alt="Mascot" />
+  <h1>Greetings, wanderer! 🧌 </h1>
+</div>
+
+
+### 🧑‍💻Hey there, I'm Niel Cedrick P. Mari! 
+
 
 📍 Based in the Philippines | 💡 Aspiring Network Engineer & Computer Engineering Student
 
@@ -8,21 +15,6 @@ Welcome to my GitHub profile! I am an aspiring Network Engineer with a strong fo
 
 ---
 
-### 🛠️ Technologies & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40" height="40" alt="Maven" />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino" />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-</p>
-
----
 
 ### 📜 Seminars & Certifications
 
@@ -36,15 +28,32 @@ Welcome to my GitHub profile! I am an aspiring Network Engineer with a strong fo
 
 ---
 
+## 🛠️ Technologies & Tools
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Apache NetBeans IDE](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
 ### 🌐 Let's Connect!
 
 I'm always open to collaborating on interesting projects, software systems, or networking challenges. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nielmari)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marinielcedrick17@gmail.com)
 
----
+<a href="https://x.com/xNiel1017" target="_blank">
+  <img src="https://img.icons8.com/color/48/twitterx--v1.png" width="40" height="40" alt="X" />
+</a>
+<a href="https://linkedin.com/in/nielmari" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" width="40" height="40" alt="LinkedIn" />
+</a>
+<a href="mailto:marinielcedrick17@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40" alt="Email" />
+</a>
 
 ### ⚡ Fun Fact
 
 I love watching documentaries and learning about space!
+
