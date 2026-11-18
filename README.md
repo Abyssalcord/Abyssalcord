@@ -60,6 +60,6 @@ I love watching documentaries and learning about space!
 
 
 <div align="center">
-  <img src="./spacecompilation.gif" width="100%" alt="Footer Banner" />
+  <img src="./spacecompilation.gif" width="75%" alt="Footer Banner" />
 </div>
 
