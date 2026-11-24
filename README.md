@@ -16,12 +16,16 @@ Welcome to my GitHub profile! I am an aspiring Network Engineer with a strong fo
 ---
 
 
-### 📜 Seminars & Certifications
+### 📜 Seminars, Certifications & Activities
 
 * **Seminars Attended:**
   * UPHSD Programming Refresher (2026)
   * Arduino Concept of the Enrichment Seminar for Arduino Applications (2026)
   * Karcee Calculator Philippines Webinar (2026)
+
+* **Major Certifications:**
+
+* **Minor Certifications:**
 
 * **Hackathons:**
   * EdTek Con 2026 – Team GreenGrass
