@@ -4,7 +4,7 @@
 </div>
 
 
-### 🧑‍💻Hey there, I'm Niel Cedrick P. Mari! 
+### 🧑‍💻 Hey there, I'm Niel Cedrick P. Mari! 
 
 
 📍 Based in the Philippines | 💡 Aspiring Network Engineer & Computer Engineering Student
@@ -22,6 +22,14 @@ Welcome to my GitHub profile! I am an aspiring Network Engineer with a strong fo
   * UPHSD Programming Refresher (2026)
   * Arduino Concept of the Enrichment Seminar for Arduino Applications (2026)
   * Karcee Calculator Philippines Webinar (2026)
+
+  <details>
+    <summary> 📄 Click for Seminar Certificates</summary>
+    <br>
+    <img src="Arduino_Seminar.png" Width="290">
+    <img src="Karce_Calculator_Webinar.png" Width="290">
+    <img src="Programming_Refresher_seminar.png" Width="290">
+  </details>
 
 * **Major Certifications:**
 
@@ -58,7 +66,7 @@ I'm always open to collaborating on interesting projects, software systems, or n
 </a>
 
 ---
-### ⚡ Fun Fact
+### 🕵 Fun Fact
 
 I love watching documentaries and learning about space!
 
