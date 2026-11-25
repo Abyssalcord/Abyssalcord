@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I am an aspiring Network Engineer with a strong fo
   * UPHSD Programming Refresher (2026)
   * Arduino Concept of the Enrichment Seminar for Arduino Applications (2026)
   * Karcee Calculator Philippines Webinar (2026)
+  * Professorial Lecture on Artificial Intelligence (2026)
 
   <details>
     <summary> 📄 Click for Seminar Certificates</summary>
