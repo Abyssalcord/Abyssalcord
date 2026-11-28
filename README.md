@@ -35,6 +35,14 @@ Welcome to my GitHub profile! I am an aspiring Network Engineer with a strong fo
 * **Major Certifications:**
 
 * **Minor Certifications:**
+  * EF SET English Certificate (Nov, 2026)
+ 
+  <details>
+    <summary> 📄 Click for Minor Certifications</summary>
+    <br>
+    <img src="EF_SET_NOV2026.jpg" Width="290">
+  </details>
+    
 
 * **Hackathons:**
   * EdTek Con 2026 – Team GreenGrass
@@ -44,9 +52,9 @@ Welcome to my GitHub profile! I am an aspiring Network Engineer with a strong fo
 ## 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Apache NetBeans IDE](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Apache NetBeans IDE](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
